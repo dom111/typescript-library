@@ -12,7 +12,8 @@
     "build:watch": "npm run build:esbuild:watch",
     "test": "npm run test:unit && npm run test:functional",
     "test:functional": "jest -c jest.config.functional.ts",
-    "test:unit": "jest -c jest.config.unit.ts"
+    "test:unit": "jest -c jest.config.unit.ts",
+    "watch": "npm run build && npm run build:watch"
   },
   "repository": {
     "type": "git",
