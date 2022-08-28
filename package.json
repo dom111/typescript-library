@@ -1,5 +1,5 @@
 {
-  "name": "typescript-library",
+  "name": "@dom111/typescript-library",
   "version": "0.1.0",
   "description": "TypeScript library/app template including functional and unit tests",
   "main": "index.js",
